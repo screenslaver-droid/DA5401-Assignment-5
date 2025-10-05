@@ -49,7 +49,7 @@ This assignment focuses on understanding data veracity challenges in multi-label
 - Comparative plots between different manifold methods
 
 
-## 🔍 Key Results & Insights
+## Key Results & Insights
 
 - **Data Structure**: Successfully processed 2,417 instances with 103 features
 - **Multi-Label Distribution**: Analysis of class co-occurrence patterns
@@ -57,7 +57,7 @@ This assignment focuses on understanding data veracity challenges in multi-label
 - **Algorithm Comparison**: Performance differences between t-SNE and Isomap
 - **Data Quality**: Identified potential data veracity issues through visualization
 
-## 📈 Visualizations Generated
+## Visualizations Generated
 
 1. **Feature Distribution Analysis**: Statistical summary of all 103 attributes
 2. **t-SNE 2D Embedding**: Non-linear projection preserving local structures
